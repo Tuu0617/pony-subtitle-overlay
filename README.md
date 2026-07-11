@@ -1,7 +1,7 @@
 # Pony-Subtitle-Overlay
 
 <p align="center">
-  <img src="assets/pony01.jpeg" alt="Pony Subtitle Overlay" width="1000">
+  <img src="assets/pony01.png" alt="Pony Subtitle Overlay" width="1000">
 </p>
 
 为 B 站番剧页面加载本地字幕的 Tampermonkey 用户脚本。
