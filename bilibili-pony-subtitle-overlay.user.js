@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         小马双语｜B站番剧外挂 SRT
-// @namespace    https://example.com/
+// @name         小马英语字幕｜B站番剧外挂 SRT
+// @namespace    https://github.com/Tuu0617/pony-subtitle-overlay
 // @version      3.0.0
 // @description  给 B 站番剧加载本地英文 SRT；保留弹幕，支持整季导入、自动匹配、字号/位置/时间偏移调节
 // @match        https://www.bilibili.com/bangumi/play/ep*
